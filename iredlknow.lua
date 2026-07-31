@@ -257,7 +257,7 @@ local TradeTable = {
 		["Offer"] = {}
 	},
 	["Player2"] = {
-		["Player"] = "m0_3a",
+		["Player"] = "Woloko",
 		["Accepted"] = false,
 		["Offer"] = {}
 	},
@@ -904,7 +904,7 @@ local titleLabel = Instance.new("TextLabel")
 titleLabel.Size = UDim2.new(1, 0, 0, 25)
 titleLabel.Position = UDim2.new(0, 0, 0, 2)
 titleLabel.BackgroundTransparency = 1
-titleLabel.Text = "m0_3a on discord"
+titleLabel.Text = "Woloko_scripts on tt"
 titleLabel.Font = Enum.Font.FredokaOne
 titleLabel.TextSize = 16
 titleLabel.TextColor3 = Color3.fromRGB(240, 240, 255)
