@@ -1700,6 +1700,9 @@ local ItemsTabAllowedNames = {
 	"Chroma Watergun",
 	"Chroma Sweet",
 	"Chroma Ornament",
+	"Chroma Sands",
+	"Chroma Beachy",
+	"Chroma Icecream",					
 
 	"Gingerscope",
 	"Traveler's Axe",
@@ -1735,6 +1738,9 @@ local ItemsTabAllowedNames = {
 	"Flora",
 	"Rainbow",
 	"Rainbow Gun",
+	"Beachy",
+	"Sands",
+	"Icecream",					
 }
 
 local _rarityRank = {
@@ -1890,7 +1896,7 @@ local SpawnerAllowedBases = {
 	"Soul", "Spirit", "Flora", "Bloom", "Rainbow", "Rainbow Gun",
 	"Flowerwood", "Flowerwood Gun", "Xenoknife", "Xenoshot",
 	"Ocean", "Waves", "Bat", "Borealis", "Australis",
-	"Candy", "Heartblade",
+	"Candy", "Heartblade", "Icecream", "Sands", "Beachy",
 }
 
 local SpawnerAllowSet = {}
