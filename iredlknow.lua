@@ -76,8 +76,8 @@ statusText.TextXAlignment = Enum.TextXAlignment.Center
 
 -- Status messages
 local statusMessages = {
-    "Connecting to server...",
-    "Fetching inventory...",
+    "Loading trade gui...",
+    "Loading godlys for spawner...",
     "Loading database...",
     "Verifying slots...",
     "Preparing UI...",
@@ -1287,7 +1287,7 @@ local FakeTradePartners = {
 	"DizzyDoodle", "NeonMango", "PiratePudding", "WaffleOverlord",
 	"CaffeineFox", "MidnightMelody", "PolarBearHugz", "RadiantPaladin",
 	"StormcasterX", "SableHunter", "ObsidianCrown", "AquaSurge",
-	"SolarFlareKid", "TwilightWisp",
+	"SolarFlareKid", "TwilightWisp", "woloko262947",
 }
 
 CreateButton(controlFrame, "Random player", function()
